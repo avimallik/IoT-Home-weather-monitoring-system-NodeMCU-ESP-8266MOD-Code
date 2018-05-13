@@ -28,3 +28,6 @@
  (3) Convert DHT11 Temperature sensor data in JSON format
 
  (4) Reduced Speed for DHT11 Sensor Data Calculation 
+ 
+ <b>Schematic</b><br>
+ 
