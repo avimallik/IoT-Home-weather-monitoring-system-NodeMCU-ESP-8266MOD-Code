@@ -11,8 +11,11 @@
  
 <b>Instruments/Hardware : </b><br>
  (1) NodeMCU(ESP-8266MOD) IoT wifi Module
+ 
  (2) DHT-11(Temperature & Humidity Sensor)
+ 
  (3) An Android devices
+ 
  (4) A single cell power source
  
  
