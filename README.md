@@ -5,7 +5,7 @@ Author :  Arunav Mallik Avi,
  
  Description : Monitor and generates the Home weather activity and convert them into JSON data and send this JSON Data to the NodeMCU(ESP-8266) IoT Module.Mercury Droid 
  Android mobile application is used to read this JSON Data from the NodeMCU(ESP-8266) Server. This code also helpful for NodeMcu to connect 
- any wifi network without Hard coded Wifi Router or WifiHotspot "SSID name" and "Password", it fully suport the AutoConnectAp Services. it is easy to configure from any Wifi Capable devices 
+ any wifi network without Hard coded Wifi Router or WifiHotspot "SSID name" and "Password", it fully support the AutoConnectAp Services. it is easy to configure from any Wifi Capable devices 
 
  Fetures : 
  (1) Don't need to give Hard Coded Wifi Router SSID and Password. it Configure it self from "192.168.4.1" webserver basis of user given wifi router SSID name & Password. so it is fully Support
