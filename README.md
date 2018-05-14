@@ -8,6 +8,9 @@
  Android mobile application is used to read this JSON Data from the NodeMCU(ESP-8266) Server. This code is also helpful for NodeMcu to connect 
  any wifi network without Hard coded Wifi Router or WifiHotspot "SSID name" and "Password", it fully support the AutoConnectAp Services. it is easy to configure from any Wifi Capable devices 
  
+ <b> Mercury Droid System Building Instruction in "Instructable": <b><br>
+https://www.instructables.com/id/IoT-Home-Weather-Monitoring-System-With-Android-Ap/ 
+ 
  
 <b>Instruments/Hardware : </b><br>
  (1) NodeMCU(ESP-8266MOD) IoT wifi Module
