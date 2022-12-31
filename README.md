@@ -17,7 +17,7 @@ https://www.instructables.com/id/IoT-Home-Weather-Monitoring-System-With-Android
  
  (2) DHT-11(Temperature & Humidity Sensor)
  
- (3) An Android devices
+ (3) An Android device
  
  (4) A single cell power source
  
