@@ -23,7 +23,7 @@ https://www.instructables.com/id/IoT-Home-Weather-Monitoring-System-With-Android
  
  
 <b> Fetures : </b> <br> 
- (1) Don't need to give Hard Coded Wifi Router SSID and Password. it Configure it self from "192.168.4.1" webserver basis of user given wifi router SSID name & Password. so it is fully Support
+ (1) Doesn't need to give Hard Coded Wifi Router SSID and Password. it Configure it self from "192.168.4.1" webserver basis of user given wifi router SSID name & Password. so it is fully Support
  Runtime Configuration
  
  (2) Monitor home weather activity. such as Celsius, Kelvin, Heat-Index, Humidity
